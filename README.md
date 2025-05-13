@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! I am Priyansh</h2>
+<h2 align="center">Hi 👋! I am Priyansh</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priynshgupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=priynshgupta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<p align="left">I'm a creative graphic designer and full-stack developer in the making — passionate about clean UI, seamless UX, and building intelligent web apps. With 4+ years in design and hands-on MERN experience, I blend visuals with code to craft real-world solutions. Currently exploring NLP, AI chatbots, and scalable systems that make a difference.</p>
 
 ###
 
@@ -8,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -50,7 +59,13 @@
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/4c/58/27/4c58276469623b3db6c3cadd270863c1.gif"  />
 
 ###
 
@@ -61,16 +76,26 @@
   <a href="priyanshu532004@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/priynshgupta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.behance.net/priynshgupta" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
-  <a href="https://discord.com/users/ig_priyanshop" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/luffy.gif"  />
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=priynshgupta.priynshgupta&"  />
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priynshgupta/priynshgupta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priynshgupta/priynshgupta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priynshgupta/priynshgupta/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
