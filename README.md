@@ -14,55 +14,31 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="30" alt="adobeaudition logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" width="22" alt="python" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" width="22" alt="java" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="22" width="22" alt="mongodb" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" width="22" alt="react" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=express" height="22" width="22" alt="express" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="22" width="22" alt="nodejs" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" width="22" alt="html5" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" width="22" alt="css3" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" width="22" alt="javascript" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="22" width="22" alt="mysql" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" width="22" alt="csharp" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="22" width="22" alt="blender" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="22" width="22" alt="figma" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=ps" height="22" width="22" alt="photoshop" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=pr" height="22" width="22" alt="premierepro" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=au" height="22" width="22" alt="audition" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=ae" height="22" width="22" alt="aftereffects" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="22" width="22" alt="git" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="22" width="22" alt="heroku" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=docker" height="22" width="22" alt="docker" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=postman" height="22" width="22" alt="postman" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="22" width="22" alt="selenium" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=spring" height="22" width="22" alt="spring" style="margin-right:8px;" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="22" width="22" alt="jupyter" style="margin-right:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" width="22" alt="azure" style="margin-right:8px;" />
 </div>
 
 ###
